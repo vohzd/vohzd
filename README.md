@@ -11,4 +11,4 @@ professionally;
 - prior to that (starting jan 2010), spent 6 years building iOS/Android native apps for yudu.com
 - on top of that having to do enterprise sales with charts and badly fitting suits
 
-feel free to reach out to me directly on [github@vohzd.com](mailto:github@vohzd.com)
+feel free to reach out to me directly at [github@vohzd.com](mailto:github@vohzd.com)
