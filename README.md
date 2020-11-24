@@ -1,4 +1,4 @@
-## vohzd, fullstack JS dev
+## vohzd, fullstack js dev
 
 been woking with new and shiny tech since 2014
 
