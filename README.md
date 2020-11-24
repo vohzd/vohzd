@@ -10,3 +10,5 @@ professionally;
 - at my dayjob, i do CRO consultation/dev/sales for bunting.com and find success in raising ecommerce stores revenue MoM
 - prior to that (starting jan 2010), spent 6 years building iOS/Android native apps for yudu.com
 - on top of that having to do enterprise sales with charts and badly fitting suits
+
+feel free to reach out to me directly on [mailto:github@vohzd.com](github@vohzd.com)
