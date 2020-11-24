@@ -1,6 +1,6 @@
 ## vohzd, fullstack js dev
 
-been woking with new and shiny tech since 2014
+been woking with new and shiny tech since 2010
 
 right now, i'm building epitrade.io, chantry.io, and various other music/entertainment based webapps
 
