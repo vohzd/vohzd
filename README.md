@@ -1,14 +1,9 @@
 ## vohzd, fullstack js dev
 
-been woking with new and shiny tech since 2010
+here is a crash course in becoming a front-end dev;
 
-right now, i'm building epitrade.io, chantry.io, and various other music/entertainment based webapps
+```
+.thing { border-radius: 3px; box-shadow: inset 0 0 0 8px pink; }
+```
 
-professionally;
-
-- i build bespoke apps for small businesses on a freelance basis. portfolio -> https://vohzd.com/portfolio
-- at my dayjob, i do CRO consultation/dev/sales for bunting.com and find success in raising ecommerce stores revenue MoM
-- prior to that (starting jan 2010), spent 6 years building iOS/Android native apps for yudu.com
-- on top of that having to do enterprise sales with charts and badly fitting suits
-
-feel free to reach out to me directly at [github@vohzd.com](mailto:github@vohzd.com)
+congratulations, you can now charge $1,000 a month to maintain a shitty Magento website
